@@ -29,7 +29,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/regaby/cl-l10n_adhoc.git',
+        'https://github.com/regaby/cl-pets48.git',
         'https://github.com/regaby/odoo-custom.git',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
