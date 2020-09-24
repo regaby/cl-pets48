@@ -31,6 +31,7 @@
     'git-repos': [
         'https://github.com/regaby/cl-pets48.git',
         'https://github.com/regaby/odoo-custom.git',
+        'https://github.com/jobiols/odoo-addons.git',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
